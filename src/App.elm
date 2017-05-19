@@ -563,6 +563,5 @@ view model =
         [ nav [ class "navbar fixed-top navbar-light bg-faded" ]
             [ a [ class "navbar-brand" ] [ text "Skull King Scorer" ]
             ]
-        , h1 [] [ text "Skull King Scorer" ]
         , contentView model
         ]
