@@ -1,1 +1,1 @@
-Starter App template for Elm using Gulp and NPM
+Scoring application for the card game Skull King
